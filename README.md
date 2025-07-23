@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Student @ Dayananda Sagar College of Engineering<br>💻 Aspiring Full Stack Web Developer | Tech Explorer<br>🚀 Passionate about building impactful web experiences<br>🧠 Driven by curiosity, problem-solving, and lifelong learning
+🎓 Student @ Dayananda Sagar College of Engineering<br>💻 Aspiring Full Stack Web Developer | Tech Explorer<br>🚀 Passionate about building impactful web experiences<br>🧠 Driven by curiosity, problem-solving and lifelong learning
 
 
 ## 🌐 Socials:
